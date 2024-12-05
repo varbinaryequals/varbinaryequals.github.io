@@ -1,4 +1,4 @@
-.button {
+.brute-button {
     border-radius: 5px;
     border: none;
     background-color: black;
@@ -6,7 +6,7 @@
     transition: 0.7s;
 }
 
-.button:hover {
+.brute-button:hover {
     padding: 10px;
     border-radius: 100px;
     border: 1px solid black;
