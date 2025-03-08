@@ -1,3 +1,6 @@
 body {
+  display: grid;
   font-family: Arial, Helvetica, sans-serif;
+  place-content: center;
+  height: 100dvh;
 }
